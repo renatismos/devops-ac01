@@ -1,0 +1,5 @@
+Codificação
+•	Front-end em React Native, com apps para iOS e Android
+•	Back-end em Node.js
+•	DB MySQL
+•	Estrutura cloud AWS
