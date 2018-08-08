@@ -1,4 +1,0 @@
-Análise
-
-O aplicativo tem a função de conectar o usuário com os prestadores de serviços afim de organizar e produzir sua festa de acordo com as suas necessidades.
-A ideia inicial é dar ao usuário o poder de escolha do tipo de festa, escolhendo entre o orçamento idealizado e os elementos que irão compor o seu evento, podendo inclusive customizá-la de acordo com suas necessidades.
