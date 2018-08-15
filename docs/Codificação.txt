@@ -1,3 +1,6 @@
+# Nome: Filipe Gomes Furtado
+# RA: 1800555
+
 Codificação
 •	Front-end em React Native, com apps para iOS e Android
 •	Back-end em Node.js
